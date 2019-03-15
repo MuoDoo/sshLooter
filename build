@@ -1,0 +1,1 @@
+gcc -Wall -fPIC -shared -Xlinker -x -o looter.so looter.c -lcurl
